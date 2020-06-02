@@ -16,6 +16,4 @@ public:
 	void Steering_type();
 	void Oil_lose_type();
 	void Trunk_type();
-	
-
 };

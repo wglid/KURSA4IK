@@ -9,9 +9,9 @@ using namespace std;
 
 void Car::createMachine()
 {
-	p = new Machine;
+	p = new Machine; 
 }
-void Car::Mark_type()
+void Car::Mark_type() //afdgdgh
 {
 	p->arrayaddMark.push_back(Mark());
 }
